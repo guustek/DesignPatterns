@@ -1,0 +1,6 @@
+# Project exclude paths
+/Behavioral/Observer/target/
+/Creational/Builder/target/
+/Creational/Singleton/target/
+/Structural/Decorator/target/
+/Structural/Flyweight/target/

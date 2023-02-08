@@ -1,0 +1,10 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(¨ìşúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëú—åüÿÿÿÿ
+N
+java:S1128",Remove this unused import 'java.awt.Button'.(øû¬éÿÿÿÿÿ8õíÛ˜â0
+T
+java:S1128"7Remove this unused import 'java.awt.event.ActionEvent'.(Úù“‘8õíÛ˜â0
+W
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8õíÛ˜â0

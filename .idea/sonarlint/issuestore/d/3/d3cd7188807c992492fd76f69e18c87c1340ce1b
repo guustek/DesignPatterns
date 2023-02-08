@@ -1,0 +1,20 @@
+
+V
+java:S1854
+";Remove this useless assignment to local variable "bullet3".(Úòòœùÿÿÿÿ
+V
+java:S1854	";Remove this useless assignment to local variable "bullet2".(ÍØµõüÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "bullet1".(Ö¼Îž
+U
+java:S1854":Remove this useless assignment to local variable "bullet".(ç´ÇÃûÿÿÿÿ
+F
+java:S1481"+Remove this unused "bullet" local variable.(ç´ÇÃûÿÿÿÿ
+B
+java:S1481",Remove this unused "bullet1" local variable.(Ö¼Îž
+G
+java:S1481	",Remove this unused "bullet2" local variable.(ÍØµõüÿÿÿÿ
+G
+java:S1481
+",Remove this unused "bullet3" local variable.(Úòòœùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÞÏ¥ýÿÿÿÿ

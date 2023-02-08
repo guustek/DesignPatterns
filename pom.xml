@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>org.example</groupId>
+  <artifactId>DesignPatterns</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <modules>
+    <module>Creational/Singleton</module>
+    <module>Creational/Builder</module>
+    <module>Creational/Prototype</module>
+    <module>Creational/FactoryMethod</module>
+    <module>Creational/AbstractFactory</module>
+
+    <module>Structural/Adapter</module>
+    <module>Structural/Bridge</module>
+    <module>Structural/Composite</module>
+    <module>Structural/Decorator</module>
+    <module>Structural/Facade</module>
+    <module>Structural/Flyweight</module>
+    <module>Structural/Proxy</module>
+
+    <module>Behavioral/ChainOfResponsibility</module>
+    <module>Behavioral/Command</module>
+    <module>Behavioral/Iterator</module>
+    <module>Behavioral/Mediator</module>
+    <module>Behavioral/Memento</module>
+    <module>Behavioral/Observer</module>
+    <module>Behavioral/State</module>
+    <module>Behavioral/Strategy</module>
+    <module>Behavioral/TemplateMethod</module>
+    <module>Behavioral/Visitor</module>
+
+  </modules>
+
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+</project>
